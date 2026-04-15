@@ -7,5 +7,5 @@ This project builds a machine learning system to detect anomalies in Linux authe
  The dataset is NOT included in this repository due to confidentiality and size constraints.
 
 
-devoloping state will fully update readme later 
+the project is in devoloping state will fully update readme later 
 
